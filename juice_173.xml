@@ -1,0 +1,38 @@
+<annotation>
+	<folder>juice</folder>
+	<filename>juice_173.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/juice/juice_173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>284</ymin>
+			<xmax>726</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>24</ymin>
+			<xmax>773</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

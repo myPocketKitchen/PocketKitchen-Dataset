@@ -1,0 +1,26 @@
+<annotation>
+	<folder>banana-good</folder>
+	<filename>banana-good20.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/new_images/banana-good/banana-good20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana-overripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>312</ymin>
+			<xmax>803</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

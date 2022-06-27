@@ -1,0 +1,38 @@
+<annotation>
+	<folder>salad</folder>
+	<filename>salad_254.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/salad/salad_254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>salad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>138</ymin>
+			<xmax>784</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>salad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>384</ymin>
+			<xmax>712</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yogurt</folder>
+	<filename>yogurt_68.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/yogurt/yogurt_68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yogurt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>119</ymin>
+			<xmax>722</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

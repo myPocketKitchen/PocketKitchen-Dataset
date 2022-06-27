@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mushrooms-good</folder>
+	<filename>mushrooms-good147.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/new_images/mushrooms-good/mushrooms-good147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mushrooms</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>388</ymin>
+			<xmax>787</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

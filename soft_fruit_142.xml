@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soft-fruit</folder>
+	<filename>soft_fruit_142.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/soft-fruit/soft_fruit_142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soft-fruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>389</ymin>
+			<xmax>666</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>

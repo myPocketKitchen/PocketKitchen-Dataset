@@ -1,0 +1,26 @@
+<annotation>
+	<folder>carrot</folder>
+	<filename>carrot_63.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/carrot/carrot_63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>122</ymin>
+			<xmax>926</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

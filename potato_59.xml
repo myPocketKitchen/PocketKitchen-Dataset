@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potato</folder>
+	<filename>potato_59.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/potato/potato_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potatoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>278</ymin>
+			<xmax>489</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

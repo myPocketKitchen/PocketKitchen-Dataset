@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bread</folder>
+	<filename>bread_175.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/bread/bread_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>277</ymin>
+			<xmax>745</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

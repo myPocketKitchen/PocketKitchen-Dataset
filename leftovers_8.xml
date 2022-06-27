@@ -1,0 +1,26 @@
+<annotation>
+	<folder>leftovers</folder>
+	<filename>leftovers_8.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/leftovers/leftovers_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leftovers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>612</xmin>
+			<ymin>301</ymin>
+			<xmax>745</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

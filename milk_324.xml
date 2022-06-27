@@ -1,0 +1,26 @@
+<annotation>
+	<folder>milk</folder>
+	<filename>milk_324.jpg</filename>
+	<path>/Users/mimireyburn/OneDrive/OneDrive - Imperial College London/Fourth Year/Masters Project/Data/Photos30:04/food_images/milk/milk_324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>1</ymin>
+			<xmax>568</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>
